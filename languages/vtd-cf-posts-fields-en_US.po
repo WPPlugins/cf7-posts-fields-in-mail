@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Demo Plugin\n"
+"POT-Creation-Date: 2016-09-05 11:27+0530\n"
+"PO-Revision-Date: 2016-09-05 11:27+0530\n"
+"Last-Translator: VTDesigns <info@vaptech.in>\n"
+"Language-Team: VTDesigns <info@vaptech.in>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /opt/lampp/htdocs/vtd-cf7_posts_fields\n"
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings.php:27
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings.php:28
+msgid "Cf7 Posts Fields Settings"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings.php:41
+msgid "Cf7 Posts Fields General"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:28
+msgid "Default Settings"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:30
+msgid "Enable"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:31
+msgid "Enable Post Contact"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:32
+msgid "Enable Page Contact"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:33
+msgid "Enable Product Contact"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:38
+msgid "Fields Included In Mail "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:40
+msgid "Page, Post, Product Title"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:41
+msgid " Page, Post, Product Url"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:42
+msgid "Page, Post, Product Author"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:43
+msgid "Page, Post, Product Id"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:44
+msgid "Page, Post, Product Meta fields (,) seperated"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:44
+msgid ""
+"example post_meta_key1:Post Meta label1, post_meta_key2:Post Meta Label2"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:91
+msgid "General settings updated"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:104
+msgid "Enter your default settings below"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/admin/class-vtd-cf-posts-fields-settings-vtd_cf_posts_fields_general.php:112
+msgid "configure your fields settings below"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/includes/vtd-cf-posts-fields-core-functions.php:17
+#, php-format
+msgid ""
+"%sContact Form 7 Posts Fields is inactive.%s The %sContact form 7%s must be "
+"active for the Contact Form 7 Posts Fields to work. Please %sinstall & "
+"activate Contact form 7%s"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-admin.php:28
+msgid "Powered by"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-admin.php:28
+msgid "VTDesigns"
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:26
+msgid "Post Title : "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:29
+msgid "Post Url : "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:32
+msgid "Post Author : "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:35
+msgid "Post ID : "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:56
+msgid "Post Meta : "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:68
+msgid "Page Title : "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:71
+msgid "Page Url : "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:74
+msgid "Page Author : "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:77
+msgid "Page ID : "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:98
+msgid "Page Meta : "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:110
+msgid "Product Title : "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:113
+msgid "Product Url : "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:116
+msgid "Product Author : "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:119
+msgid "Product ID : "
+msgstr ""
+
+#: /opt/lampp/htdocs/vtd-cf7_posts_fields/classes/class-vtd-cf-posts-fields-frontend.php:140
+msgid "Product Meta : "
+msgstr ""
+
+#~ msgid "ID Number"
+#~ msgstr "Identification"
